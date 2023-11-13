@@ -1,6 +1,5 @@
 import gradio as gr
 from utils import process_hsv_image
-# Assuming process_image_with_manual_update is defined somewhere
 
 with gr.Blocks() as app:
     gr.Markdown("# Color Segmentation Tool using HSV Colorspace")

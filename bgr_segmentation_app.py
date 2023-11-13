@@ -1,6 +1,5 @@
 import gradio as gr
 from utils import process_bgr_image
-# Assuming process_image_with_manual_update is defined somewhere
 
 with gr.Blocks() as app:
     gr.Markdown("# Color Segmentation Tool using BGR Colorspace")
