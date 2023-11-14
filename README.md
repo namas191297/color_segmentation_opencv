@@ -1,8 +1,7 @@
 # Color Segmentation Tool 
 
-![BGR Color Segmentation](https://huggingface.co/spaces/iamnamas/color-segmentation-bgr)
-
 [HuggingFace Demo - BGR Color Segmentation](https://huggingface.co/spaces/iamnamas/color-segmentation-bgr)
+
 [HuggingFace Demo - HSV Color Segmentation](https://huggingface.co/spaces/iamnamas/color-segmentation-hsv)
 
 This Python application provides a user-friendly interface for segmenting images based on color spaces. The project offers two separate scripts for segmentation using BGR and HSV color spaces, respectively. This tool was developed as an engaging project during my exploration of image processing techniques in Python.
